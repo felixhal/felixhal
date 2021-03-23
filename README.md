@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Felix, a Computer Science Student at UTS. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. Connect with me on [![LinkedIn][1.1][1].
+
+<!-- Icons -->
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/felix-ehalim/
+
+
+
 <!--
 **felixhal/felixhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
