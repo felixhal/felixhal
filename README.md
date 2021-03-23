@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Felix, a Computer Science Student at UTS. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. Connect with me on [![LinkedIn][1.1][1].
+I'm Felix, a Computer Science Student at UTS. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. Connect with me on [![LinkedIn][1.1][1]].
 
 <!-- Icons -->
 
