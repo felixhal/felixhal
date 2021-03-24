@@ -1,8 +1,11 @@
 ### Hi there 👋
+<p>&nbsp;</p>
+I'm Felix, a student at the University of Technology Sydney. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. I'm currently working on developing in the iOS Environment and some web development. Connect with me through:
 
-I'm Felix, a student at UTS. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. Connect with me on [<img alt="LinkedIn" src="https://img.shields.io/badge/Felix-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/felix-ehalim/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Felix-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/felix-ehalim/)
 
 ### Tools 🛠️:
+<p>&nbsp;</p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=flat" />
@@ -17,8 +20,5 @@ I'm Felix, a student at UTS. I have a strong intrest in software development and
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" />
 </p>
-
-
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felixhal)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
