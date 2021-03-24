@@ -2,12 +2,12 @@
 
 I'm Felix, a student at UTS. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. Connect with me on [LinkedIn](https://www.linkedin.com/in/felix-ehalim/).
 
-### I work with:
+### Tools:
 - C++ || C# || Java || Python || Javascript || PHP
 - React || Node || Express || .NET
 - MongoDB || MySQL || MsSQL
 
-### I'm currently Learning:
+### Currently Learning:
 - Swift for iOS Development
 - React-Native for Cross Platform Development
 - ASP.NET for Back-end Development
