@@ -1,7 +1,11 @@
 ### Hi there 👋
-I'm Felix, a student at the University of Technology Sydney. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. I'm currently focused on developing in the iOS Environment and some web development.
+I'm Felix, a student at UTS.
+- 🦘 Based in: Sydney, Australia
+- 🌱 I'm currently learning: Swift and everything else
+- 🧠 I'm intrested in: Web & Mobile Development and A.I
+- 🏓 My Hobbies are: Ping Pong, Coding and Watching Movies
 
-### Tools 🛠️:
+### I use 🛠️:
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
