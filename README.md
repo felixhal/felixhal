@@ -1,11 +1,9 @@
 ### Hi there 👋
-<p>&nbsp;</p>
 I'm Felix, a student at the University of Technology Sydney. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. I'm currently working on developing in the iOS Environment and some web development. Connect with me through:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Felix-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/felix-ehalim/)
 
 ### Tools 🛠️:
-<p>&nbsp;</p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=flat" />
