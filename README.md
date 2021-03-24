@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Felix, a student at the University of Technology Sydney. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. I'm currently working on developing in the iOS Environment and some web development.
+I'm Felix, a student at the University of Technology Sydney. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. I'm currently focused on developing in the iOS Environment and some web development.
 
 ### Tools 🛠️:
 <p>
