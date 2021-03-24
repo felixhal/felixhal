@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Felix, a student at the University of Technology Sydney. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. I'm currently working on developing in the iOS Environment and some web development. Connect with me through:
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Felix-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/felix-ehalim/)
+I'm Felix, a student at the University of Technology Sydney. I have a strong intrest in software development and big data. I'm always keen to learn, build and collaborate on new things. I'm currently working on developing in the iOS Environment and some web development.
 
 ### Tools 🛠️:
 <p>
@@ -20,3 +18,6 @@ I'm Felix, a student at the University of Technology Sydney. I have a strong int
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felixhal)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Connect with me via:
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Felix-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/felix-ehalim/)
