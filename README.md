@@ -20,7 +20,8 @@ I'm Felix, a student at UTS.
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-  <img alt="Swift" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Git-F05032?logo=flutter&logoColor=white&style=for-the-badge" />
 </p>
 
 [style]: for-the-badge
