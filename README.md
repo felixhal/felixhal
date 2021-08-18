@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Felix, a student at UTS.
 - 🦘 Based in: Sydney, Australia
-- 🌱 I'm currently learning: Swift and everything else
+- 🌱 I'm currently learning: Next.js and everything else
 - 🧠 I'm intrested in: Web & Mobile Development and A.I
 - 🏓 My Hobbies are: Ping Pong, Coding and Watching Movies
 
