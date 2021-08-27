@@ -2,7 +2,7 @@
 I'm Felix, a student at UTS.
 - 🦘 Based in: Sydney, Australia
 - 🌱 I'm currently learning: Next.js and everything else
-- 🧠 I'm intrested in: Web & Mobile Development and A.I
+- 🧠 I'm intrested in: Full Stack Dev & Img Recognition
 - 🏓 My Hobbies are: Ping Pong, Coding and Watching Movies
 
 ### I use 🛠️:
