@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 I'm Felix, a student at UTS.
 - 🦘 Based in: Sydney, Australia
 - 🌱 I'm currently learning: Next.js and everything else
