@@ -3,7 +3,7 @@ I'm Felix, a student at UTS.
 - 🦘 Based in: Sydney, Australia
 - 🌱 I'm currently learning: Next.js and everything else
 - 🧠 I'm intrested in: Full Stack Dev & Img Recognition
-- 🏓 My Hobbies are: Ping Pong, Coding and Watching Movies
+- 🏓 My Hobbies are: Ping Pong, Programming and Watching Movies
 
 ### I use 🛠️:
 <p>
