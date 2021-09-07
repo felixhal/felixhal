@@ -5,7 +5,7 @@ I'm Felix, a student at UTS.
 - 🧠 I'm intrested in: Full Stack Dev & Img Recognition
 - 🏓 During my free time I: Play table tennis, Code random stuff and binge watching netflix
 
-### I use 🛠️:
+### I work with 🛠️:
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
