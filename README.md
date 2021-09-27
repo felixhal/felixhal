@@ -25,7 +25,8 @@ I'm Felix, a student at UTS.
 </p>
 
 [style]: for-the-badge
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felixhal)](https://github.com/anuraghazra/github-readme-stats&count_private=true) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felixhal)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixhal&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me via 📲:
