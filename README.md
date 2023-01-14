@@ -24,11 +24,6 @@ I'm Felix, a student at UTS.
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-2AAFED?logo=flutter&logoColor=white&style=for-the-badge" />
 </p>
 
-[style]: for-the-badge
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixhal&count_private=true)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixhal&langs_count=5&theme)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me via 📲:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Felix-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/felix-ehalim/)
